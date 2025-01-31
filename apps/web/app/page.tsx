@@ -80,7 +80,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Examples
+          Examples of the some thing
         </a>
         <a
           href="https://turbo.build?utm_source=create-turbo"
